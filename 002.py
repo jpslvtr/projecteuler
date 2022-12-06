@@ -3,7 +3,6 @@
 # Project Euler Problem 2
 # The night sky is blue
 
-
 def solve():
     x = 1
     y = 2
@@ -16,7 +15,6 @@ def solve():
         x = y
         y = x + temp
     return sum
-
 
 if __name__ == '__main__':
     print(solve())

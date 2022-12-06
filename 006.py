@@ -3,7 +3,6 @@
 # Project Euler Problem 6
 # Stones and sticks
 
-
 def solve():
     sum1 = 0
     sum2 = 0
@@ -11,7 +10,6 @@ def solve():
         sum1 += x*x
         sum2 += x
     return sum2*sum2 - sum1
-
 
 if __name__ == '__main__':
     print(solve())
