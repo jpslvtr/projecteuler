@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 
-# Project Euler Problem 1
-# Doing this for fun
+"""
+Project Euler Problem 1
+Doing this for fun
+"""
 
 def solve():
     sum = 0

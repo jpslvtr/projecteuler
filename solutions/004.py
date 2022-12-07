@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
 
-# Project Euler Problem 4
-# Gimme gimme more
+"""
+Project Euler Problem 4
+Gimme gimme more
+"""
 
 import math
 import time
+
 start_time = time.time()
 
 def solve():

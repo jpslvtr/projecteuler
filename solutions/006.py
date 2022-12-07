@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 
-# Project Euler Problem 6
-# Stones and sticks
+"""
+Project Euler Problem 6
+Stones and sticks
+"""
 
 def solve():
     sum1 = 0

@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 
-# Project Euler Problem 5
-# I am alive
+"""
+Project Euler Problem 5
+I am alive
+"""
 
 import math
 

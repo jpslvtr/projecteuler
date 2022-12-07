@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 
-# Project Euler Problem 2
-# The night sky is blue
+"""
+Project Euler Problem 2
+The night sky is blue
+"""
 
 def solve():
     x = 1
