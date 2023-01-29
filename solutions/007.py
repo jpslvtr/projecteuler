@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Project Euler Problem 7
-I am Eleven
+Project Euler 7
 """
 
 import math
