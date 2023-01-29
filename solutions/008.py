@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Project Euler Problem 8
-Kanye's receiving a lot of hate
+Project Euler 8
 """
 
 import math
