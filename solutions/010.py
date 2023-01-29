@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Project Euler Problem 10
-Remember Ben Ten?
+Project Euler 10
 """
 
 import math
