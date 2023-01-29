@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Project Euler Problem 1
-Doing this for fun
+Project Euler 1
 """
 
 def solve():
