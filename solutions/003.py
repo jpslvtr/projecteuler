@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Project Euler Problem 3
-Tomorrow is not guaranteed
+Project Euler 3
 """
 
 import math
