@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Project Euler Problem 9
-Coding is sublime
+Project Euler 9
 """
 
 import math
