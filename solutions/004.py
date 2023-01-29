@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Project Euler Problem 4
-Gimme gimme more
+Project Euler 4
 """
 
 import math
