@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Project Euler Problem 6
-Stones and sticks
+Project Euler 6
 """
 
 def solve():
